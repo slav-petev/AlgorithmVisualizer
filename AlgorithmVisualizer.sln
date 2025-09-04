@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmVisualizer.Core", "AlgorithmVisualizer.Core\AlgorithmVisualizer.Core.csproj", "{543008DA-5EFE-49D6-AD2F-10F9E2C31561}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmVisualizer.Algorithms", "AlgorithmVisualizer.Algorithms\AlgorithmVisualizer.Algorithms.csproj", "{D71FE9BC-2CA1-4013-9ABA-CE46F2D16C2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmVisualizer.Avalonia", "AlgorithmVisualizer.Avalonia\AlgorithmVisualizer.Avalonia.csproj", "{5296C635-AFA6-441F-82A2-CF228440FD00}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{543008DA-5EFE-49D6-AD2F-10F9E2C31561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{543008DA-5EFE-49D6-AD2F-10F9E2C31561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{543008DA-5EFE-49D6-AD2F-10F9E2C31561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{543008DA-5EFE-49D6-AD2F-10F9E2C31561}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D71FE9BC-2CA1-4013-9ABA-CE46F2D16C2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D71FE9BC-2CA1-4013-9ABA-CE46F2D16C2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D71FE9BC-2CA1-4013-9ABA-CE46F2D16C2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D71FE9BC-2CA1-4013-9ABA-CE46F2D16C2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5296C635-AFA6-441F-82A2-CF228440FD00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5296C635-AFA6-441F-82A2-CF228440FD00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5296C635-AFA6-441F-82A2-CF228440FD00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5296C635-AFA6-441F-82A2-CF228440FD00}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
